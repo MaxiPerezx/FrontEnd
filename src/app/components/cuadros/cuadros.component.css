@@ -1,0 +1,17 @@
+.row{
+    padding: 30px;
+   
+}
+
+.d-flex img{
+    width: 80px;
+}
+.card-body{
+    border-radius: 0px;
+    background-repeat: no-repeat;
+    background-position: 0% top;
+    
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+}

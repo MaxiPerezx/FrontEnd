@@ -1,0 +1,40 @@
+.row{
+    padding: 30px;
+}
+div{
+    background-color: #cddff7;
+    text-align: center;
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+}
+
+/*Estilo de la foto de perfil*/
+@media (min-width: 576px){
+    #fotodeperfil{
+        position:absolute;
+        width: 15%;
+        border: #cddff7;
+        box-shadow: 10px 10px 20px grey;
+        left: 2%;
+        top: 600px;
+        border-radius: 20px;
+    }
+}
+@media (max-width: 576px){
+    #fotodeperfil{
+        position:absolute;
+        width: 50%;
+        border: #cddff7;
+        box-shadow: 3px 3px 3px grey;
+        left: 25%;
+        top: 550px;
+        border-radius: 10px;
+    }
+}
+
+/*etiqueta nombre*/
+#nombre{
+    font-weight: bold;
+    margin-top: 2%;
+}

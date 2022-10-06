@@ -1,0 +1,19 @@
+.row{
+    padding: 45px;
+
+}
+.contenedor{
+    width: auto;
+}
+.parte1, .parte2{
+    display: inline-block;
+    text-align: justify;
+   
+}
+.img-proyecto{
+    box-shadow: 10px 10px 20px #000;
+    border-radius: 10px;
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+}
